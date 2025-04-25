@@ -13,7 +13,7 @@ local function create_marker(tile, status)
         goal = "yellow", -- yellow-green
         error = "red", -- red!
         -- Значение по умолчанию
-        default = "#ca56ff"
+        default = "#ca56ff" -- purple
     }
     
     -- Выбираем путь по статусу или используем default
